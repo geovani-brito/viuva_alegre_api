@@ -4,6 +4,7 @@
   "description": "API do app do restaurante A Viúva Alegre",
   "main": "api/server.js",
   "scripts": {
+    "start": "node ./api/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Geovani Brito",
