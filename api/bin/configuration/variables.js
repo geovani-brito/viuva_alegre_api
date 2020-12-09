@@ -4,7 +4,7 @@ const variables = {
     },
     Database: {
         connection: process.env.connection || 
-        'mongodb+srv://admin:ofood123456@cluster0.qwst3.mongodb.net/ViuvaAlegreDB?retryWrites=true&w=majority'
+        'mongodb+srv://admin:nofood123456@cluster0.qwst3.mongodb.net/ViuvaAlegreDB?retryWrites=true&w=majority'
     }
 }
 
