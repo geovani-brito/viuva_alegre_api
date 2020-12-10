@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-const variables = require('../bin/configuration/variables');
+const variables = require('./configuration/variables');
 
 const pratodiaRouter = require('../routes/pratodia-router');
 const opcaoPrincipalRouter = require('../routes/opcaoPrincipal-router');
